@@ -17,3 +17,4 @@
 14.[Algorithm to find a sub array whose sum is X](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array14.java)<br />
 15.[Algorithm to find the largest sub array with equal number of 0's and 1's](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array15.java)<br />
 16.[Algorithm to find the number of triangles that can be formed with three different array elements as three sides of triangles, for a given unsorted array of n elements](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array16.java)<br />
+17.[Algorithm to find the smallest integer value that can't be represented as sum of any subset of a given sorted array.](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array17.java) > Hard<br />
