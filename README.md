@@ -20,4 +20,5 @@
 17.[Algorithm to find the smallest integer value that can't be represented as sum of any subset of a given sorted array.](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array17.java)<br />
 18.[Algorithm to find the common element in given three sorted arrays](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array18.java)<br />
 19.[Algorithm to find the contiguous sub-array with maximum sum, for a given array of postive and negative numbers(kadane's algo)](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array19.java)<br />
-20.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array20.java)<br />
+20.[Given an array of integers, sort the array into a wave like array and return it. (arrange the element into a sequence such that a1>=a2<=a3>=a4<=a5----etc.)](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array20.java)<br />
+21.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array21.java)<br />
