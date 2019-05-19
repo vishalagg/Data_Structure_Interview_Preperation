@@ -23,3 +23,8 @@
 20.[Given an array of integers, sort the array into a wave like array and return it. (arrange the element into a sequence such that a1>=a2<=a3>=a4<=a5----etc.)](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array20.java)<br />
 21.[Algorithm to find the next greater number formed after permuting the digits of given number](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array21.java)<br />
 21.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array22.java)<br />
+
+# Linked List Questions
+---
+
+1.[Linked List Implementation](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/LinkedList/LinkedListImpl.java)<br />
