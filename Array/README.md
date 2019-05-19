@@ -18,4 +18,5 @@ Questions :
 16.[Algorithm to find the number of triangles that can be formed with three different array elements as three sides of triangles, for a given unsorted array of n elements](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array16.java)<br />
 17.[Algorithm to find the smallest integer value that can't be represented as sum of any subset of a given sorted array.](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array17.java)<br />
 18.[Algorithm to find the common element in given three sorted arrays](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array18.java)<br />
-19.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array19.java)<br />
+19.[Algorithm to find the contiguous sub-array with maximum sum, for a given array of postive and negative numbers(kadane's algo)](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array19.java)<br />
+20.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Array/Array20.java)<br />
