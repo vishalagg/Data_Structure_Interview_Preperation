@@ -1,8 +1,6 @@
 package LinkedList;
 //Algorithm to find the nth node from end of the linked list
 
-import java.io.ObjectInputStream.GetField;
-import java.util.LinkedList;
 
 public class LL1 {
 	
