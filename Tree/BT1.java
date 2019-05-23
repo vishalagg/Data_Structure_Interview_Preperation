@@ -12,7 +12,7 @@ public class BT1 {
 			this.left = left;
 			this.right = right;
 		}
-		
+
 	}
 	Node root;
 	
