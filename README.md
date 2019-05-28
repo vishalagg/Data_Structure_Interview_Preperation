@@ -47,4 +47,7 @@
 7.[Find a lowest common ancestor of a given two nodes in a a binary search tree](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Tree/BT7.java)<br />
 8.[Find a lowest common ancestor of a given two nodes in a binary tree](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Tree/BT8.java)<br />
 9.[Level order traversal in spiral form](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Tree/BT9.java)<br />
-10.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Tree/BT10.java)<br />
+10.[Convert an arbitrary binary tree to a tree that holds children sum property (You are not allowed to subtract from any node or node value must not decrease).](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Tree/BT10.java)<br />
+11.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Tree/BT11.java)<br />
+12.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Tree/BT12.java)<br />
+13.[](https://github.com/vishalagg/Data_Structure_Interview_Preperation/blob/master/Tree/BT13.java)<br />
