@@ -1,4 +1,4 @@
-package Graph.DFS;
+package Graph.Question2;
 
 import java.util.Stack;
 

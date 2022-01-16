@@ -1,4 +1,4 @@
-package Graph.DFS;
+package Graph.Question3;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,6 +7,8 @@ public class Vertex {
 
 	private int data;
 	private boolean visited;
+	private boolean beingVisited;
+	
 	private List<Vertex> neighbourList;
 	
 	public Vertex(int data){
@@ -41,6 +43,14 @@ public class Vertex {
 	@Override
 	public String toString() {
 		return ""+this.data;
+	}
+
+	public boolean isBeingVisited() {
+		return beingVisited;
+	}
+
+	public void setBeingVisited(boolean beingVisited) {
+		this.beingVisited = beingVisited;
 	}
 }
 

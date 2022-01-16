@@ -1,10 +1,8 @@
-package Graph.BFS;
+package Graph.Question3;
 
 public class App {
 
-	public static void main(String[] args) {
-		
-		BFS breadthFirstSearch = new BFS();
+	public static void main(String[] args){
 		
 		Vertex vertex1 = new Vertex(1);
 		Vertex vertex2 = new Vertex(2);
@@ -17,9 +15,9 @@ public class App {
 		vertex4.addNeighbour(vertex5);
 		vertex2.addNeighbour(vertex3);
 		vertex3.addNeighbour(vertex5);
+		vertex5.addNeighbour(vertex2);
 		
-		breadthFirstSearch.bfs(vertex1);
-
+		CycleDetection cd = new CycleDetection();
+		System.out.println(cd.detectCycle(vertex1));
 	}
 }
-

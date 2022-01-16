@@ -1,4 +1,4 @@
-package Graph.CycleDetection;
+package Graph.Question3;
 
 public class CycleDetection {
 
